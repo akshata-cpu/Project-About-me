@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background: linear-gradient(#cc66ff 0%, #ff99cc)
+}
+
+li {
+    display: inline;
+}
+
+li {
+    float: right;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu a {
+    color: black !important;
+}
+
+.link {
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover {
+    background-color: beige;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 41;
+    background-color: antiquewhite;
+}
+img:hover {
+    transform: scale(0.9);
+}
